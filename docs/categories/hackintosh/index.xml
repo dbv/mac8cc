@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Mac吧 - hugo小站</title>
-    <link>https://mac8.cc/post/</link>
-    <description>Recent content in Posts on Mac吧 - hugo小站</description>
+    <title>hackintosh on Mac吧 - hugo小站</title>
+    <link>https://mac8.cc/categories/hackintosh/</link>
+    <description>Recent content in hackintosh on Mac吧 - hugo小站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Wed, 13 Jul 2022 00:24:10 +0800</lastBuildDate><atom:link href="https://mac8.cc/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jul 2022 00:24:10 +0800</lastBuildDate><atom:link href="https://mac8.cc/categories/hackintosh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>黑苹果OC配置工具</title>
       <link>https://mac8.cc/post/%E9%BB%91%E8%8B%B9%E6%9E%9Coc%E9%85%8D%E7%BD%AE%E5%B7%A5%E5%85%B7/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://mac8.cc/post/%E9%BB%91%E8%8B%B9%E6%9E%9Coc%E9%85%8D%E7%BD%AE%E5%B7%A5%E5%85%B7/</guid>
       <description>OpenCore 是非常优秀的开源软件，旨在通过提供更加通用和模块化的系统来解决 Clover 带来的限制和问题，拦截内核加载以插入高级的 rootkit，而该 rootkit 旨在替代 C</description>
-    </item>
-    
-    <item>
-      <title>跨平台图床工具 PicGo</title>
-      <link>https://mac8.cc/post/picgo/</link>
-      <pubDate>Tue, 12 Jul 2022 23:40:28 +0800</pubDate>
-      
-      <guid>https://mac8.cc/post/picgo/</guid>
-      <description>基于vue-cli-electron-builder 构建的一个简单漂亮的图片上传工具。 软件地址 官方地址 https://molunerfinn.com/PicGo/ 下载地址 https://github.com/Molunerfinn/picgo/releases 软件界面 特性 基于elect</description>
     </item>
     
   </channel>

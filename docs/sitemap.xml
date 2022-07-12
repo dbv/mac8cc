@@ -10,21 +10,63 @@
   
   <url>
     <loc>https://mac8.cc/categories/</loc>
-    <lastmod>2022-07-12T23:40:28+08:00</lastmod>
+    <lastmod>2022-07-13T00:24:10+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac8.cc/tags/configurator/</loc>
+    <lastmod>2022-07-13T00:24:10+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac8.cc/categories/hackintosh/</loc>
+    <lastmod>2022-07-13T00:24:10+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://mac8.cc/</loc>
-    <lastmod>2022-07-12T23:40:28+08:00</lastmod>
+    <lastmod>2022-07-13T00:24:10+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://mac8.cc/tags/mac%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2022-07-12T23:40:28+08:00</lastmod>
+    <lastmod>2022-07-13T00:24:10+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac8.cc/tags/opencore/</loc>
+    <lastmod>2022-07-13T00:24:10+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac8.cc/post/</loc>
+    <lastmod>2022-07-13T00:24:10+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac8.cc/tags/</loc>
+    <lastmod>2022-07-13T00:24:10+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac8.cc/post/%E9%BB%91%E8%8B%B9%E6%9E%9Coc%E9%85%8D%E7%BD%AE%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2022-07-13T00:24:10+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -38,20 +80,6 @@
   
   <url>
     <loc>https://mac8.cc/categories/picgo/</loc>
-    <lastmod>2022-07-12T23:40:28+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://mac8.cc/post/</loc>
-    <lastmod>2022-07-12T23:40:28+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://mac8.cc/tags/</loc>
     <lastmod>2022-07-12T23:40:28+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

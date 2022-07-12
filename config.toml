@@ -1,6 +1,6 @@
 baseURL = "https://mac8.cc"
 languageCode = "zh-Hans"
-defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
+defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Mac吧 - hugo小站"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
