@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mac软件 on Mac吧 - hugo小站</title>
+    <link>https://mac8.cc/tags/mac%E8%BD%AF%E4%BB%B6/</link>
+    <description>Recent content in mac软件 on Mac吧 - hugo小站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Tue, 12 Jul 2022 23:40:28 +0800</lastBuildDate><atom:link href="https://mac8.cc/tags/mac%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>跨平台图床工具 PicGo</title>
+      <link>https://mac8.cc/post/picgo/</link>
+      <pubDate>Tue, 12 Jul 2022 23:40:28 +0800</pubDate>
+      
+      <guid>https://mac8.cc/post/picgo/</guid>
+      <description>基于vue-cli-electron-builder 构建的一个简单漂亮的图片上传工具。 软件地址 官方地址 https://molunerfinn.com/PicGo/ 下载地址 https://github.com/Molunerfinn/picgo/releases 软件界面 特性 基于elect</description>
+    </item>
+    
+  </channel>
+</rss>

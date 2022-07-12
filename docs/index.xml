@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mac吧 - hugo小站</title>
+    <link>https://mac8.cc/</link>
+    <description>Recent content on Mac吧 - hugo小站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Tue, 12 Jul 2022 23:40:28 +0800</lastBuildDate><atom:link href="https://mac8.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://mac8.cc/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>https://mac8.cc/about/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+Cobra Viper J Walter Weatherman Cast Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>跨平台图床工具 PicGo</title>
+      <link>https://mac8.cc/post/picgo/</link>
+      <pubDate>Tue, 12 Jul 2022 23:40:28 +0800</pubDate>
+      
+      <guid>https://mac8.cc/post/picgo/</guid>
+      <description>基于vue-cli-electron-builder 构建的一个简单漂亮的图片上传工具。 软件地址 官方地址 https://molunerfinn.com/PicGo/ 下载地址 https://github.com/Molunerfinn/picgo/releases 软件界面 特性 基于elect</description>
+    </item>
+    
+  </channel>
+</rss>
